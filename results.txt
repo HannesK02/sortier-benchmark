@@ -1,0 +1,5 @@
+Computer Name: HannesLappi
+Date of Test: 2026-06-18 12:33:18
+Bubble Sort Time: 3.200337 seconds
+Quick Sort Time: 0.009243 seconds
+
