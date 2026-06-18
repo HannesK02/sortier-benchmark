@@ -3,3 +3,8 @@ Date of Test: 2026-06-18 12:33:18
 Bubble Sort Time: 3.200337 seconds
 Quick Sort Time: 0.009243 seconds
 
+Computer Name: LouisLenovo
+Date of Test: 2026-06-18 14:28:39
+Bubble Sort Time: 5.192039 seconds
+Quick Sort Time: 0.014086 seconds
+
